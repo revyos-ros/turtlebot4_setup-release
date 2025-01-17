@@ -1,3 +1,26 @@
+## turtlebot4_setup (humble) - 1.0.5-1
+
+The packages in the `turtlebot4_setup` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble turtlebot4_setup --override-release-repository-push-url git@github.com:revyos-ros/turtlebot4_setup-release.git` on `Fri, 17 Jan 2025 06:27:37 -0000`
+
+The `turtlebot4_setup` package was released.
+
+Version of package(s) in repository `turtlebot4_setup`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_setup.git
+- release repository: https://github.com/revyos-ros/turtlebot4_setup-release.git
+- rosdistro version: `1.0.5-1`
+- old version: `1.0.4-1`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_setup (jazzy) - 2.0.2-1
 
 The packages in the `turtlebot4_setup` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy turtlebot4_setup --override-release-repository-push-url git@github.com:revyos-ros/turtlebot4_setup-release.git` on `Thu, 19 Dec 2024 08:21:07 -0000`
